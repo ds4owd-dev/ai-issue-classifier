@@ -12,7 +12,7 @@ A flexible, config-driven GitHub workflow that automatically classifies issues u
 ### Installation
 **One-liner installation:**
 ```bash
-git clone https://github.com/your-username/generalised-ai-issue-classifier .github
+git clone https://github.com/ds4owd-dev/ai-issue-classifier .github
 ```
 
 **Manual installation:**
